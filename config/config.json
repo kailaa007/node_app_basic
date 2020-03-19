@@ -1,0 +1,14 @@
+{
+    "port": "3035",
+    "mongodb": {
+        "host": "localhost",
+        "port": "27017",
+        "database": "todos"
+    },
+    "directory": {
+        "users": ""
+    },
+    "default_image": {
+        "users": ""
+    }
+}
